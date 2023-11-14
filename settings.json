@@ -1,0 +1,11 @@
+{
+    "source": [
+        "/home/<username>/Documents/",
+        "/home/<username>/Music/"
+    ],
+    "destination": "/home/<username>/backup/",
+    "log": {
+        "location": "./backup.log",
+        "max-backups": 3
+    }
+}
