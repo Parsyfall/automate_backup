@@ -26,11 +26,11 @@ git clone https://github.com/Parsyfall/traineeland.git
 
 ```
 
-Navigate to assignment_2 folder and run the bash script with desired arguments (see [documentation](#running-as-a-system-task))
+Navigate to automate_backup folder and run the bash script with desired arguments (see [documentation](#running-as-a-system-task))
 
 ```
 
-cd ./assignment_2
+cd ./automate_backup
 
 ```
 
